@@ -1,4 +1,4 @@
-# Netclips
+# Netclips - My own version
 
 [Netclips live][heroku]
 
